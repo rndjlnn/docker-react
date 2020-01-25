@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hi there :)
         </p>
         <a
           className="App-link"
@@ -22,5 +22,6 @@ function App() {
     </div>
   );
 }
+// bouth !
 
 export default App;
